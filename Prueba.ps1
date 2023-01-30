@@ -18,11 +18,11 @@ function esPrimo ($n) {
 
 function aleatorio($n1, $n2){
 
-    Write-Host "Escribe un numero: "
+    Write-Host "Escribe el numero inferior: "
 
     $n1 = Read-Host
 
-    Write-Host "Escribe otro numero: "
+    Write-Host "Escribe el numero superior: "
 
     $n2 = Read-Host
 
